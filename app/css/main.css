@@ -1,0 +1,39 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.simpleNav {
+	text-align: center;	
+	margin-top: 10px;
+	width: 100%;
+	color: red;
+}
+.home {
+	height: 200px;
+	width: 80%;
+	margin: 30px auto;
+	background: red;
+	border: 1px solid #000;
+}
+.project1 {
+	height: 200px;
+	width: 80%;
+	margin: 30px auto;
+	background: green;
+	border: 1px solid #000;
+}
+.project2 {
+	height: 200px;
+	width: 80%;
+	margin: 30px auto;
+	background: blue;
+	border: 1px solid #000;
+}
+.message {
+	display: block;
+	margin-top: 30px;
+	text-align: center;
+}
